@@ -11,5 +11,8 @@ Jene Windows-Benutzerkonten, die im AD entsprechenden Gruppen zugeordnet werden,
 Aus Gründen der Vereinfachung wird im weiteren Verlauf dieses Handbuches statt 
 „DSGVO-Webanwendung“ häufig die Bezeichnung „Webanwendung“ benutzt.
 
+Installationsanleitung im Wiki: https://github.com/lkdh/dsgvo-webanwendung/wiki
+
+
 ## Lizenz
 Die Software steht unter der Lizenz CC-BY-NC zur Verfügung und kann nach Belieben frei verändert werden. Die kommerzielle Nutzung ist ausgeschlossen. Ist ein Test der Software zufriedenstellend und soll sie eingesetzt werden, freut sich der Schülerhilfsfonds sich über eine freiwillige Spende. Die Kontaktdaten des Vereins für Schülerhilfen im Landkreis Diepholz sind unter https://www.verein-schuelerhilfen.de  abrufbar. 
