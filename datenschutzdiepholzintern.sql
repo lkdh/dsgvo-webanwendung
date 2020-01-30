@@ -249,9 +249,8 @@ CREATE TABLE `user` (
   `username` varchar(55) NOT NULL,
   `default_organisation_id` int(11) NOT NULL,
   `default_gruppe_id` int(11) NOT NULL,
-  `right_can_delete` int(11) NOT NULL,
-  `salt` varchar(255) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  `right_can_delete` int(11) NOT NULL
+  ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- --------------------------------------------------------
 
