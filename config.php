@@ -7,7 +7,7 @@
  */
 
 
-include("../config.php");
+include("/config_system.php");
 
 define("FPDF_FONTPATH","fonts/");
 foreach(scandir("includes/",SCANDIR_SORT_ASCENDING ) as $file)
