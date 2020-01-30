@@ -1,0 +1,9 @@
+
+
+ *  $gruppe_id = $_SESSION["user"]->gruppe_id ;
+ * $orga_id =  $_SESSION["user"]->organisation_id;
+
+
+$page->is_admin();
+
+ $_SESSION["user"]->data["right_can_delete"];

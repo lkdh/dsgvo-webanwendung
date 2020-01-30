@@ -1,0 +1,106 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.btn{
+    margin-bottom: 10px ;
+}
+
+.hidden{
+    display:none;
+}
+
+.card{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.vertical {
+    writing-mode: tb-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+    display: block;
+    bottom: 0;
+    width: 20px;
+    height: 20px;
+}
+.form-check{
+    margin-bottom: 10px;
+}
+
+.lnk {
+    color:#3D8CB9;
+}
+.lnk-remove{
+    color:red;
+}
+.lnk-blue{
+    color:#3D8CB9;
+}
+.lnk-grey{
+    color:#bebebe;
+}
+
+.anodeco{
+    cursor: default;
+    text-decoration: none;
+    color: black;
+}
+.form-group{
+    margin-bottom: 20px !important;
+    background-color:#f7f7f7;
+    padding: 5px;
+}
+
+.wiz_nav_subline{
+    font-size: 80%;
+    font-weight: bold;
+}
+.wizzard_header{
+    margin-top: 15px;
+    margin-bottom: 20px;
+
+}
+
+.btndefspace{
+    margin-bottom: 20px;
+}
+
+.speichernbtnform{
+    margin-top: 20px;
+}
+.tableheadrow{
+    background-color:#CFCFCF;
+}
+
+.btn-primary{
+    background-color:#3D8CB9;
+}
+.matrixtablerow{
+    text-align: center;
+}
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.spacingpre{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.spacingpre2x{
+    margin-left: 40px;
+}
+.licontform{
+    margin-left: 20px;
+    margin-top:  10px;
+}
+#loadingindicator{
+    display:none;
+}
